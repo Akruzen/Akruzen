@@ -8,7 +8,7 @@
 
 ## Languages, Platforms and Softwares I am acquainted with
 
-<p align="left"> <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1164525925242986497/N5_DCXYQ_400x400.jpg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1164525925242986497/N5_DCXYQ_400x400.jpg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language.png" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="java" width="40" height="40"/> </a>
 
 <!--
 **Akruzen/Akruzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
