@@ -8,7 +8,7 @@
 
 ## Languages, Platforms and Softwares I am acquainted with
 
-<p align="left"> <a href="https://pbs.twimg.com/profile_images/1164525925242986497/N5_DCXYQ_400x400.jpg" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1164525925242986497/N5_DCXYQ_400x400.jpg" alt="android" width="40" height="40"/> </a>
 
 <!--
 **Akruzen/Akruzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
