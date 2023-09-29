@@ -2,7 +2,7 @@
 
 ## I am a Android App Developer, Game Modder and Tech Enthusiast from India
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Machine Learning and Natural Language Processing
 - 👯 I’m looking to collaborate on Java Projects and Android App Projects
 - 📫 Reach me on Discord: Akruzen#2652
 
