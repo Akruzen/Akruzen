@@ -1,26 +1,36 @@
-### Hello! 👋 This is Omkar Phadke
+<div align="center">
 
-## I am a Android App Developer, Game Modder and Tech Enthusiast from India
+# Omkar Phadke
+_Android Developer · Full-Stack Engineer · Gaming Enthusiast_
 
-- 🌱 I’m currently learning Machine Learning and Natural Language Processing
-- 👯 I’m looking to collaborate on Java Projects and Android App Projects
-- 📫 Reach me on Discord: Akruzen#2652
+## Tech Stacks I'm familiar with
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
+  
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+</p>
 
-## Languages, Platforms and Softwares I am acquainted with
+## Collaboration
+I am always keen on collaborating with various projects involving the Android ecosystem. Connect with me and I'll be happy to help!
 
-<p align="left"><a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/windows/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.audacityteam.org/" target="_blank"><img src="https://cdn.simpleicons.org/audacity" alt="Audacity" width="40" height="40"/></a></p>
+<a href="mailto:1omkarphadke@gmail.com">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
+</a>
 
-<!--
-**Akruzen/Akruzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/omkar-phadke-b97b741ba/">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
